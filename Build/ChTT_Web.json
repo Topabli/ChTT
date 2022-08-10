@@ -1,0 +1,16 @@
+{
+"companyName": "PyM",
+"productName": "Johnny's Gym",
+"productVersion": "0.61",
+"dataUrl": "ChTT_Web.data.unityweb",
+"wasmCodeUrl": "ChTT_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "ChTT_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#F28CF2",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
